@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gxHxrJJTJOU=",
+  "dgSpecHash": "aswnzpRvCuJwyJOjppl2/gax/VGri02njcKdQfGKGZdSVs6GiPo2tDEUt2E+WL6E9ctOjKcwxF6btEnusHVQ4A==",
   "success": true,
-  "projectFilePath": "/Users/justinyoo/dev/az/mcp-workshop-dotnet/workshop/MyMonkeyApp/MyMonkeyApp.csproj",
+  "projectFilePath": "/home/runner/work/mcp-workshop-dotnet/mcp-workshop-dotnet/workshop/MyMonkeyApp/MyMonkeyApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
