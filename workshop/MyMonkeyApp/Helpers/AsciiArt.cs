@@ -8,13 +8,12 @@ public static class AsciiArt
     private static readonly string[] _monkeyArt = {
         @"
       🐵
-   .-""""""-.
-  /          \
- |  o      o  |
- |     <>     |
- |   \____/   |
-  \          /
-   '-.____.-'
+    /~~~~~\
+   (  o   o  )
+   |    ^    |
+   |  \___/  |
+    \       /
+     \_____/
 ",
         @"
     🐒
